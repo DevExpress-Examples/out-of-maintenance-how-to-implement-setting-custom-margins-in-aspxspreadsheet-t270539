@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement setting custom margins in ASPxSpreadsheet
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t270539/)**
+<!-- run online end -->
 
 
 <p>This code example demonstrates how to implement setting custom margins in the ASPxSpreadSheet.</p>
